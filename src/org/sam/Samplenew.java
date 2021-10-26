@@ -5,6 +5,7 @@ public class Samplenew {
 	
 	private void employeename() {
 		System.out.println("hi how are you");
+		System.out.println("iam fine");
 
 	}
 }
